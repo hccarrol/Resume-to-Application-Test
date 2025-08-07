@@ -1,0 +1,50 @@
+Holden Carroll
+Hccarrol@iu.edu • (708) 870-5235 • www.linkedin.com/in/holden-c-carroll • https://github.com/hccarrol United States
+Citizen
+EDUCATION & HONORS
+Indiana University, Luddy School of Informatics, Computing and Engineering | Bloomington, IN May 2027
+Bachelor of Science in Computer Science GPA 3.20/4.00
+Majors: Computer Science and Artificial Intelligence | Minors: Business, Mathematics, Data Science
+PROFESSIONAL EXPERIENCE
+Campus Dining Services | Bloomington, IN December 2024 - April 2025 Dining Hall Worker
+● Assessed circumstances based on assigned task each shift and delegate efforts and/or resources accordingly
+● Communicated with students to ensure adequate service was given
+United Parcel Service | Hodgkins, IL May 2024 – August 2024 Seasonal Package Package Handler
+● Managed certain package distribution for products distributed across the United States of America
+● Transferred between different distribution projects depending on task difficulty over the period of each shift
+Lyons Township High School | LaGrange, IL May 2022 – August 2022 Summer Technical Intern
+● Handled various technical jobs across campuses in preparation for the upcoming school year
+● Acted at an interim IT department for staff over the summer
+● Managed network connection for devices on campus including desktop computers and projectors
+Hinsdale Humane Society | Hinsdale, IL May 2021 – August 2021 Maintenance Worker
+● Cleaned and maintained grounds of the entire animal shelter facility, including facilities unavailable to public and the
+surrounding lawn
+● Assisted in preparations for Philanthropic events
+LEADERSHIP & ACTIVITIES
+Alpha Kappa Lambda Fraternity | Bloomington, IN February 2024 – Present
+Academic Chair and Advisor
+● Oversee brotherhood study sessions to insure productivity and effectiveness
+● Advise and assist members with academic and employment ventures
+Survivor at Indiana | Bloomington, IN September 2023 – Present
+Production Member
+● Prepare activities for weekly meetings mirroring the reality show Survivor’s challenges
+● Create clues for game “advantages” to help players find hidden items on the Indiana Bloomington Campus
+● Record content during meetings to be edited and posted to different social media platforms
+Technical Skills
+● Programming Languages: Java, Python, C, Javascript, HTML, CSS, Swift
+● Frameworks and Libraries: PyTorch, scikit-learn, NodeJS, NumPy
+● Databases: SQL
+● Tools and Technologies: Git/Github, Notebooks
+● Operating Systems: Microsoft Windows, Mac OS X, Linux, Unix
+Projects
+Chess Playing Robot
+Technologies Used: Python
+● Designed search algorithm based on the Monte-Carlo Search Tree Framework to determine each decision made by the
+Chess Bot in turn
+● Developed a move weighting system based on piece values and positioning for optimal move accuracy
+● Accesses external “opening move” book to play optimal and accurate openings based on the real player’s input
+Titanic Survival Estimator
+Technologies Used: Python, NumPy
+● Accesses external database with general information about passengers on the titanic and if they survived or not
+● Used K Nearest Neighbor learning algorithm to determine if an individual with certain specified traits (age, sex and fare)
+would survive based on the status of data points with similar traits.
