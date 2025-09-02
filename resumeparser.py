@@ -134,7 +134,7 @@ def parse_resume(text):
     return data
 
 
-resume_dir = pathlib.Path("/Users/holdencarroll/Desktop/PP1/resumes")
+resume_dir = pathlib.Path("/Users/holdencarroll/Desktop/PP1/Resume-to-Application-Test/resumes")
 rows = []
 
 for file in resume_dir.glob("*.txt"):

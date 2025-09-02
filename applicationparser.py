@@ -92,7 +92,7 @@ def job_dict_to_row(parsed, file_name=""):
     return row
 
 # === Directory & Output =====================================================
-job_dir = pathlib.Path("/Users/holdencarroll/Desktop/PP1/applications")
+job_dir = pathlib.Path("/Users/holdencarroll/Desktop/PP1/Resume-to-Application-Test/applications")
 rows = []
 
 for file in job_dir.glob("*.txt"):
@@ -103,3 +103,7 @@ for file in job_dir.glob("*.txt"):
 df = pd.DataFrame(rows)
 df.to_csv("parsed_job_postings.csv", index=False)
 print("✓ Job postings parsed:", df.shape, "rows")
+
+#dfCos = pd.read_csv(df)
+
+
